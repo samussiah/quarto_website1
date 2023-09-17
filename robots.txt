@@ -1,1 +1,1 @@
-Sitemap: https://samussiah.github.io/quarto_website1/sitemap.xml
+Sitemap: https://github.com/samussiah/quarto_website1/sitemap.xml
