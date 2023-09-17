@@ -1,0 +1,12 @@
+name: my_second_quarto_website
+title: my_second_quarto_website
+username: devops_workshop
+account: devops_workshop
+server: ambitious-buffalo.84718.fleeting.rstd.io
+hostUrl: https://ambitious-buffalo.84718.fleeting.rstd.io/rsconnect/__api__
+appId: 1
+bundleId: 2
+url: https://ambitious-buffalo.84718.fleeting.rstd.io/rsconnect/content/c5faae8e-91c1-4fc9-b0eb-05162be29759/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
