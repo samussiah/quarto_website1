@@ -324,7 +324,7 @@
         "rappdirs",
         "rlang"
       ],
-      "Hash": "a8fdd059f386cd08d96db4a1b244c3fa"
+      "Hash": "6bd4d33b50ff927191ec9acbf52fd056"
     },
     "stringi": {
       "Package": "stringi",
